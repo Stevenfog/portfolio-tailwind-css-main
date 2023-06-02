@@ -1,6 +1,5 @@
-# portfolio-tailwind-css-main
-Portfolio Tailwind
+# Portfolio Tailwind
 
 Preview :
 
-![Screenshot](screenshot.png)
+![alt text](http://url/to/screenshot.png)
