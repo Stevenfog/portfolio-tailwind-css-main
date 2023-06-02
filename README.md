@@ -2,4 +2,4 @@
 
 Preview :
 
-![alt text](http://url/to/screenshot.png)
+![preview](https://github.com/Stevenfog/portfolio-tailwind-css-main/blob/main/dist/img/screenshot.png)
